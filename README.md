@@ -7,7 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img width=415 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chinaglia77&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
 
-https://github.com/chinaglia77/chinaglia77/assets/156460261/8aa29068-59ab-46be-a980-70dd27078fa0
 
 </a>
 <img width=385 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chinaglia77&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
