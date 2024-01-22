@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h1 align = "center"></h1>
 <div align="center">
   <a href="https://skillicons.dev" >
-    <img width=300 src="https://skillicons.dev/icons?i=java,py,html,css,vscode,eclipse,mysql,c&perline=4"/>
+    <img width=250 src="https://skillicons.dev/icons?i=java,py,html,css,vscode,eclipse,mysql,c&perline=4"/>
   </a>
 </div>
 
