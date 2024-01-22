@@ -17,7 +17,6 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img width=415 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chinaglia77&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
 </a>
 <img width=385 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chinaglia77&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
