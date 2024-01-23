@@ -1,11 +1,11 @@
-<img src="https://i.pinimg.com/564x/47/4c/8e/474c8ed169fc0f398c5c53d48313c132.jpg" width="1060" height = "450">
+<img src="https://i.pinimg.com/564x/55/00/88/550088d7ac1b40b219ab9b000e6c9f31.jpg" width="1020" height = "200">
 
 <h1>
 
 <div align = "left">
 
 <div>
-  <img align="right" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/12713383-7ce7-4def-aa0e-443328a974c6" alt="Alt Text" width="87" height="87"/>
+  <img align="right" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/12713383-7ce7-4def-aa0e-443328a974c6" alt="Alt Text" width="90" height="90"/>
 </div>
 <p>JAVA Developer  <img alt="java-"  height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></p>
 </div>
