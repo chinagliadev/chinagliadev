@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/564x/55/00/88/550088d7ac1b40b219ab9b000e6c9f31.jpg" width="1020" height = "200">
-
 <h1>
 
 <div align = "left">
