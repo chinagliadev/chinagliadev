@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/564x/47/4c/8e/474c8ed169fc0f398c5c53d48313c132.jpg" width="1060" height = "450">
+
 <h1>
 
 <div align = "left">
@@ -30,31 +32,3 @@
     <img width=550 src="https://skillicons.dev/icons?i=java,py,html,css,vscode,eclipse,mysql,figma"/>
   </a>
 </div>
-
-<h1> </h1>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Botão de Emoji</title>
-</head>
-<body>
-
-<button onclick="mostrarEmoji()">Clique para mostrar o emoji</button>
-
-<div id="emojiContainer" style="display: none;">
-  😊 <!-- Substitua este emoji pelo que você desejar -->
-</div>
-
-<script>
-  function mostrarEmoji() {
-    var emojiContainer = document.getElementById('emojiContainer');
-    emojiContainer.style.display = 'block';
-  }
-</script>
-
-</body>
-</html>
