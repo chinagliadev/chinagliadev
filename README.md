@@ -3,7 +3,7 @@
 <div>
   <img align="right" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/5d78bc77-69de-487d-9319-caacd706b429" alt="Alt Text" height="110"/>
 </div>
-<p>JAVA Developer  <img alt="java-"  height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></p>
+<p>JAVA Developer  <img alt="java-"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></p>
 </div>
 </h1>
 
@@ -33,7 +33,7 @@
 
 <h1></h1>
 <h1 align = "center">Social Networks
-  <img align="center" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/76e6717d-92fb-4495-b294-785d57099d23" alt="Alt Text" height="150"/>
+  <img align="center" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/76e6717d-92fb-4495-b294-785d57099d23" alt="Alt Text" height="110"/>
 </h1>
  <div align = center>
 <a href="https://www.linkedin.com/in/victor-c-neto-339874284/" target="_blank">
