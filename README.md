@@ -27,7 +27,7 @@
 </h1>
 <div align = center>
     <a href="https://skillicons.dev" >
-    <img width=550 src="https://skillicons.dev/icons?i=java,py,html,css,vscode,eclipse,mysql,figma"/>
+    <img width=550 src="https://skillicons.dev/icons?i=java,html,css,vscode,eclipse,mysql,figma"/>
   </a>
 </div>
 
