@@ -3,7 +3,7 @@
 <div>
   <img align="right" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/5d78bc77-69de-487d-9319-caacd706b429" alt="Alt Text" height="90"/>
 </div>
-<p>JAVA Developer  <img alt="java-"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></p>
+<p>Victor Chinaglia</p>
 </div>
 </h1>
 
@@ -27,7 +27,7 @@
 </h1>
 <div align = center>
     <a href="https://skillicons.dev" >
-    <img width=350 src="https://skillicons.dev/icons?i=java,python,vscode,linux"/>
+    <img width=350 src="https://skillicons.dev/icons?i=java,python"/>
   </a>
 </div>
 
