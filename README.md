@@ -27,7 +27,7 @@
 </h1>
 <div align = center>
     <a href="https://skillicons.dev" >
-    <img width=350 src="https://skillicons.dev/icons?i=java,python"/>
+    <img width=150 src="https://skillicons.dev/icons?i=java,python"/>
   </a>
 </div>
 
