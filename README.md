@@ -36,9 +36,6 @@
   <img align="center" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/76e6717d-92fb-4495-b294-785d57099d23" alt="Alt Text" height="110"/>
 </h1>
  <div align = center>
-<a href="https://www.linkedin.com/in/victor-c-neto-339874284/" target="_blank">
-    <img height="67" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-</a>
 <a href="https://www.instagram.com/kk_vitinho/" target="_blank">
     <img height="67" src="https://skillicons.dev/icons?i=instagram" alt="instagram">
 </a>
