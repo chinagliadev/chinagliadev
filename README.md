@@ -1,42 +1,39 @@
-<h1>
-<div align = "left">
-<div>
-  <img align="right" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/5d78bc77-69de-487d-9319-caacd706b429" alt="Alt Text" height="90"/>
-</div>
-<p>Victor Chinaglia</p>
-</div>
-</h1>
+<h2 align="left">Hi 👋!  My name is Victor Chinaglia</h2>
 
+###
 
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats-salesp07.vercel.app/api?username=chinaglia77&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=chinaglia77&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-  </a>
-  <img height=140 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=chinaglia77&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <a>
- <img style="border-radius: 50px;" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/e5f5da36-5d65-4690-9530-c0ea26b1112c" alt="Alt Text" width="375" height="142" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinaglia77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinaglia77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h1></h1>
-<h1  align = center> Tech Stack
-   <img align="center" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/abeb15d1-bd00-4c20-8c86-6254878cc505" alt="Alt Text" height="100"/>
-</h1>
-<div align = center>
-    <a href="https://skillicons.dev" >
-    <img width=150 src="https://skillicons.dev/icons?i=java,python"/>
-  </a>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="46" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="46" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="46" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="46" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="46" alt="vscode logo"  />
 </div>
 
-<h1></h1>
-<h1 align = "center">Social Networks
-  <img align="center" src="https://github.com/chinaglia77/chinaglia77/assets/156460261/76e6717d-92fb-4495-b294-785d57099d23" alt="Alt Text" height="110"/>
-</h1>
- <div align = center>
-<a href="https://www.instagram.com/kk_vitinho/" target="_blank">
-    <img height="67" src="https://skillicons.dev/icons?i=instagram" alt="instagram">
-</a>
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
+
+###
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinaglia77&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
