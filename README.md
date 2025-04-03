@@ -60,6 +60,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />    
 </div>
+<h2 align="center">Design e Prototipagem</h2>
+<div align="center">
+     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /> 
+</div>
  
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+
