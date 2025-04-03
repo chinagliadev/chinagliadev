@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome! Great to have you here!👨‍💻</h1>
 
-<img align="left" alt="Coding" width="140" 
+<img align="left" alt="Coding" width="120" 
      src="https://github.com/user-attachments/assets/721eb6ca-c4ca-4ecf-94cc-616ad37c979a" 
      style= "margin-left: 20px; border-radius: 10px;">
 
