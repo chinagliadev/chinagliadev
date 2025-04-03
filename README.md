@@ -1,3 +1,5 @@
+<img align="center" width="1200" height="370" src="https://i.pinimg.com/originals/77/7f/4e/777f4e90abf163a474e5cb31cde7ce51.gif">
+
 <h1 align="center">Welcome! Great to have you here!👨‍💻</h1>
 
 <img align="left" alt="Coding" width="140" 
@@ -45,24 +47,23 @@
 
 <h2 align = "center">🛠️ Linguagens</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
 </div>
-<h2 align="center">Ambientes de Desenvolvimento (IDEs)</h2>
+<h2 align="center">💻 Ambientes de Desenvolvimento (IDEs) </h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" /> 
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" /> 
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />    
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />   
 </div>
-<h2 align="center">Design e Prototipagem</h2>
+
+<h2 align="center">🎨 Design e Prototipagem </h2>
 <div align="center">
      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /> 
 </div>
- 
-
