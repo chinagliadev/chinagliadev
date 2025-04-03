@@ -22,9 +22,9 @@
     <p>Conhecimento</p>
   </div>
 
-  <img align="left" alt="Coding" width="150" 
-       src="https://files.oaiusercontent.com/file-Rx7U6eekpikQ1B7wuobmLr?se=2025-04-03T02%3A26%3A28Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dfoto%2520git.png&sig=is3eKiSJseI81%2BctpeaWyNADadQgdZvEKVNEdd4DuSg%3D" 
-       style="border-radius: 10px; margin-right: 20px;">
+  <img align="right" alt="Coding" width="150" 
+       src="https://github.com/user-attachments/assets/8bfa901d-8e68-459a-b2c0-782dcf106c19" 
+       style="border-radius: 10px; margin-left: 20px; float: right;">
 
   <p align="left">
     &nbsp;&nbsp;&nbsp;Atualmente, estou desenvolvendo <strong>projetos Java com banco de dados</strong> 📀, utilizando tecnologias como <strong>JDBC, MySQL e SQLite</strong> para criar aplicações eficientes e escaláveis.  
@@ -35,17 +35,10 @@
   </p>
 </section>
 
-<h2 align="center">🖥️ Linguagens & Ferramentas</h2>
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinaglia77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinaglia77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
