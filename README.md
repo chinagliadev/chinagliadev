@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! Great to have you here!👨‍💻</h1>
 
-<img align="right" alt="Coding" width="200" 
-     src="https://files.oaiusercontent.com/file-Rx7U6eekpikQ1B7wuobmLr?se=2025-04-03T02%3A26%3A28Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dfoto%2520git.png&sig=is3eKiSJseI81%2BctpeaWyNADadQgdZvEKVNEdd4DuSg%3D" 
+<img align="left" alt="Coding" width="160" 
+     src="https://github.com/user-attachments/assets/721eb6ca-c4ca-4ecf-94cc-616ad37c979a" 
      style= "margin-left: 20px; border-radius: 10px;">
 
 <p align="left">
