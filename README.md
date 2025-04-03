@@ -1,6 +1,6 @@
 <h1 align="center">Welcome! Great to have you here!👨‍💻</h1>
 
-<img align="left" alt="Coding" width="160" 
+<img align="left" alt="Coding" width="120" 
      src="https://github.com/user-attachments/assets/721eb6ca-c4ca-4ecf-94cc-616ad37c979a" 
      style= "margin-left: 20px; border-radius: 10px;">
 
@@ -21,7 +21,7 @@
     <h1>🚀 Minhas Habilidades & Estudos 📚</h1>
   </div>
 
-  <img align="right" alt="Coding" width="150" 
+  <img align="right" alt="Coding" width="120" 
        src="https://github.com/user-attachments/assets/8bfa901d-8e68-459a-b2c0-782dcf106c19" 
        style="border-radius: 10px; margin-left: 20px; float: right;">
 
