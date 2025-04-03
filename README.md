@@ -2,13 +2,13 @@
 
 <h1 align="center">Welcome! Great to have you here!👨‍💻</h1>
 
-<img align="left" alt="Coding" width="120" 
+<img align="left" alt="Coding" width="140" 
      src="https://github.com/user-attachments/assets/721eb6ca-c4ca-4ecf-94cc-616ad37c979a" 
      style= "margin-left: 20px; border-radius: 10px;">
 
 <p align="left">
     <blockquote>
-        &nbsp;&nbsp;&nbsp;🖐🏼 Olá, eu me chamo <strong>Victor Chinaglia</strong>! Sou estudante de <strong>Técnico em Informática</strong> no <strong>SENAC</strong>. Tenho uma grande paixão por programação e tecnologias, sempre buscando aprender e me aperfeiçoar nesse universo fascinante! 💡💻  
+        &nbsp;&nbsp;&nbsp;🖐🏼 Olá, eu me chamo <strong>Victor Chinaglia</strong>! Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e estudante de <strong>Técnico em Informática</strong> no <strong>SENAC</strong>. Tenho uma grande paixão por programação e tecnologias, sempre buscando aprender e me aperfeiçoar nesse universo fascinante! 💡💻  
     </blockquote>
 </p>
 
@@ -18,12 +18,13 @@
     </blockquote>
 </p>
 
+
 <section id="conhecimento">
   <div align="center">
     <h1>🚀 Minhas Habilidades & Estudos 📚</h1>
   </div>
 
-  <img align="right" alt="Coding" width="180" 
+  <img align="right" alt="Coding" width="170" 
        src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif" 
        style="border-radius: 10px; margin-left: 20px; float: right;">
 
