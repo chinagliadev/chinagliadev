@@ -21,8 +21,8 @@
     <h1>🚀 Minhas Habilidades & Estudos 📚</h1>
   </div>
 
-  <img align="right" alt="Coding" width="140" 
-       src="https://github.com/user-attachments/assets/8bfa901d-8e68-459a-b2c0-782dcf106c19" 
+  <img align="right" alt="Coding" width="180" 
+       src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif" 
        style="border-radius: 10px; margin-left: 20px; float: right;">
 
   <p align="left">
