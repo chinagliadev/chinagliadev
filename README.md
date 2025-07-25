@@ -1,4 +1,4 @@
-<img align="center" width="1200" height="300" src="https://i.pinimg.com/originals/77/7f/4e/777f4e90abf163a474e5cb31cde7ce51.gif">
+<img align="center" width="1200" height="300" src="https://i.pinimg.com/1200x/14/f9/21/14f9212fb5cd8b566ac66fd12d7e225b.jpg">
 
 <h1 align="center">Welcome! Great to have you here!👨‍💻</h1>
 
