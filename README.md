@@ -51,6 +51,7 @@
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
