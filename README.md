@@ -35,7 +35,7 @@
 
   <p align="left">
     <blockquote>
-      &nbsp;&nbsp;&nbsp;Além disso, estou me dedicando aos estudos de <strong>C#, PHP, JavaScript, NodeJS e MongoDB</strong> 🚀, aprofundando conhecimentos em desenvolvimento de software, lógica de programação e automação. Busco sempre aprender novas tecnologias e evoluir constantemente no mundo da programação!  
+      &nbsp;&nbsp;&nbsp;Além disso, estou me dedicando aos estudos de <strong>C#, PHP, JavaScript, NodeJS e MongoDB</strong> 🚀, aprofundando conhecimentos em desenvolvimento de software, lógica de programação e automação. À noite, estou cursando <strong>Desenvolvimento Back-End no SENAC</strong>, o que tem contribuído bastante para meu crescimento profissional e técnico.  
     </blockquote>
   </p>
 </section>
@@ -47,6 +47,9 @@
 </div>
 
 <h1 align="center">🛠️ Tecnologias</h1>
+
+<!-- Linguagens de Programação -->
+<h3 align="center">💻 Linguagens de Programação</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
@@ -55,9 +58,31 @@
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+</div>
+
+
+<!-- Tecnologias & Frameworks -->
+<h3 align="center">🧰 Tecnologias & Frameworks</h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+</div>
+
+
+<!-- Banco de Dados & Versionamento -->
+<h3 align="center">🗃️ Banco de Dados & Versionamento</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+</div>
+
+<!-- IDEs & Ferramentas -->
+<h3 align="center">🛠️ IDEs & Ferramentas</h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
 </div>
+
