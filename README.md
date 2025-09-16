@@ -4,7 +4,7 @@
 
 <img align="left" alt="Coding" width="160" 
      src="https://github.com/user-attachments/assets/721eb6ca-c4ca-4ecf-94cc-616ad37c979a" 
-     style= "margin-left: 20px; border-radius: 10px;">
+     style="margin-left: 20px; border-radius: 10px;">
 
 <p align="left">
     <blockquote>
@@ -18,7 +18,6 @@
     </blockquote>
 </p>
 
-
 <section id="conhecimento">
   <div align="center">
     <h1>🚀 Minhas Habilidades & Estudos 📚</h1>
@@ -28,22 +27,23 @@
        src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif" 
        style="border-radius: 10px; margin-left: 20px; float: right;">
 
-<p align="left">
-  <blockquote>
-    &nbsp;&nbsp;&nbsp;Atualmente, estou desenvolvendo <strong>projetos em PHP e JavaScript com banco de dados</strong> 📀, utilizando tecnologias como <strong>MySQL, SQLite, PHP e JS</strong> para criar aplicações eficientes e escaláveis.  
-  </blockquote>
-</p>
+  <p align="left">
+    <blockquote>
+      &nbsp;&nbsp;&nbsp;Atualmente, estou desenvolvendo <strong>projetos em PHP e JavaScript com banco de dados</strong> 📀, utilizando tecnologias como <strong>MySQL, SQLite, PHP e JS</strong> para criar aplicações eficientes e escaláveis.  
+    </blockquote>
+  </p>
 
-<p align="left">
-  <blockquote>
-    &nbsp;&nbsp;&nbsp;Além disso, estou me dedicando ao estudo de <strong>C#, PHP e JavaScript</strong> 🚀, aprofundando conhecimentos em desenvolvimento de software, lógica de programação e automação. Busco sempre aprender novas tecnologias e evoluir constantemente no mundo da programação!  
-  </blockquote>
-</p>
+  <p align="left">
+    <blockquote>
+      &nbsp;&nbsp;&nbsp;Além disso, estou me dedicando aos estudos de <strong>C#, PHP, JavaScript, NodeJS e MongoDB</strong> 🚀, aprofundando conhecimentos em desenvolvimento de software, lógica de programação e automação. Busco sempre aprender novas tecnologias e evoluir constantemente no mundo da programação!  
+    </blockquote>
+  </p>
+</section>
 
 <h1 align="center">📊 Estatísticas do GitHub</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinagliadev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinagliadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinagliadev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinagliadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 <h1 align="center">🛠️ Tecnologias</h1>
@@ -61,8 +61,3 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
 </div>
-
-
-
-
-
