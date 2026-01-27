@@ -8,13 +8,13 @@
 
 <p align="left">
     <blockquote>
-        &nbsp;&nbsp;&nbsp;🖐🏼 Olá, eu me chamo <strong>Victor Chinaglia</strong>! Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e estudante de <strong>Técnico em Informática</strong> no <strong>SENAC</strong>. Tenho uma grande paixão por programação e tecnologias, sempre buscando aprender e me aperfeiçoar nesse universo fascinante! 💡💻  
+        &nbsp;&nbsp;&nbsp;🖐🏼 Olá, eu me chamo <strong>Victor Chinaglia</strong>! Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e estudante de <strong>Desenvolvimento BackEnd</strong> no <strong>SENAC</strong>. Tenho uma grande paixão por programação e tecnologias, sempre buscando aprender e me aperfeiçoar nesse universo fascinante!
     </blockquote>
 </p>
 
 <p align="left">
     <blockquote>
-        &nbsp;&nbsp;&nbsp;🚀 Estou sempre explorando novas linguagens, frameworks e ferramentas para expandir meu conhecimento e aprimorar minhas habilidades. Além da programação, gosto de interagir com comunidades tech, trocar experiências e estar por dentro das tendências do mundo da tecnologia. 📖🔍  
+        Estou sempre explorando novas linguagens, frameworks e ferramentas para expandir meu conhecimento e aprimorar minhas habilidades. Além da programação, gosto de interagir com comunidades tech, trocar experiências e estar por dentro das tendências do mundo da tecnologia. 
     </blockquote>
 </p>
 
@@ -27,61 +27,50 @@
        src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif" 
        style="border-radius: 10px; margin-left: 20px; float: right;">
 
-  <p align="left">
-    <blockquote>
-      &nbsp;&nbsp;&nbsp;Atualmente, estou desenvolvendo <strong>projetos em PHP e JavaScript com banco de dados</strong> 📀, utilizando tecnologias como <strong>MySQL, SQLite, PHP e JS</strong> para criar aplicações eficientes e escaláveis.  
-    </blockquote>
-  </p>
+<p align="left">
+  <blockquote>
+    &nbsp;&nbsp;&nbsp;Atualmente, estou desenvolvendo <strong>projetos back-end utilizando PHP e Node.js (com Express)</strong>, 
+    integrados a bancos de dados relacionais e não relacionais. 
+    Tenho experiência prática com <strong>MySQL, SQLite e MongoDB</strong>, 
+    criando aplicações eficientes, organizadas e escaláveis.
+  </blockquote>
+</p>
 
-  <p align="left">
-    <blockquote>
-      &nbsp;&nbsp;&nbsp;Além disso, estou me dedicando aos estudos de <strong>C#, PHP, JavaScript, NodeJS e MongoDB</strong> 🚀, aprofundando conhecimentos em desenvolvimento de software, lógica de programação e automação. À noite, estou cursando <strong>Desenvolvimento Back-End no SENAC</strong>, o que tem contribuído bastante para meu crescimento profissional e técnico.  
-    </blockquote>
-  </p>
+<p align="left">
+  <blockquote>
+    &nbsp;&nbsp;&nbsp;Além disso, sigo me dedicando aos estudos de 
+    <strong>C#, PHP, JavaScript e Node.js</strong> 🚀, 
+    aprofundando meus conhecimentos em desenvolvimento de software, lógica de programação e automação. 
+  </blockquote>
+</p>
+
 </section>
 
-<h1 align="center">📊 Estatísticas do GitHub</h1>
+<h1 align="center">Estatísticas do GitHub</h1>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=chinagliadev&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="chinagliadev's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinagliadev&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="chinagliadev's GitHub Stats" />
 </div>
+<h1 align="center">Tecnologias</h1>
 
-<h1 align="center">🛠️ Tecnologias</h1>
-
-<!-- Linguagens de Programação -->
-<h3 align="center">💻 Linguagens de Programação</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-</div>
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp" />
 
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql" />
 
-<!-- Tecnologias & Frameworks -->
-<h3 align="center">🧰 Tecnologias & Frameworks</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
-</div>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" />
 
-
-<!-- Banco de Dados & Versionamento -->
-<h3 align="center">🗃️ Banco de Dados & Versionamento</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
-</div>
-
-<!-- IDEs & Ferramentas -->
-<h3 align="center">🛠️ IDEs & Ferramentas</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma" />
 </div>
 
