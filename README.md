@@ -43,7 +43,7 @@
 <h1 align="center">📊 Estatísticas do GitHub</h1>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=chinagliadev&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="chinagliadev's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinagliadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinagliadev&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="chinagliadev's GitHub Stats" />
 </div>
 
 <h1 align="center">🛠️ Tecnologias</h1>
