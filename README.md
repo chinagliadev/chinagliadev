@@ -1,7 +1,5 @@
 <div align="center">
-
-![banner](https://i.pinimg.com/1200x/14/f9/21/14f9212fb5cd8b566ac66fd12d7e225b.jpg)
-
+  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a7410413-a231-477c-9c39-e99c24784117" />
 </div>
 
 <div align="center">
@@ -10,12 +8,12 @@
 
 </div>
 
-### `JSON`
+### `Victor chinaglia`
 
-Olá! Sou **Victor Chinaglia**, Desenvolvedor FullStack Júnior com formação em **Análise e Desenvolvimento de Sistemas**.
-Trabalho com desenvolvimento de aplicações web, sempre buscando código limpo, bem estruturado e escalável.
-
-```yaml
+Olá! Sou **Victor Chinaglia**, **Desenvolvedor FullStack Júnior** com formação em **Análise e Desenvolvimento de Sistemas**.
+Trabalho com desenvolvimento de aplicações web utilizando **Java, JavaScript e jQuery**, integrados ao **PostgreSQL** com deploy via **Apache Tomcat**.
+Apaixonado por código limpo, boas práticas e soluções que fazem sentido.
+```json
 {
   "nome": "Victor Chinaglia",
   "funcao": "FullStack Junior Developer",
