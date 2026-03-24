@@ -1,11 +1,5 @@
 <div align="center">
-  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a7410413-a231-477c-9c39-e99c24784117" />
-</div>
-
-<div align="center">
-
-
-
+  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/32ae73f6-2a36-4e59-a6a3-6426cb25ea40" />
 </div>
 
 ### `Victor chinaglia`
@@ -17,33 +11,33 @@ Apaixonado por código limpo, boas práticas e soluções que fazem sentido.
 {
   "nome": "Victor Chinaglia",
   "funcao": "FullStack Junior Developer",
+  "empresa": "Delta Soluções Inteligentes",
   "localizacao": "Americana, SP — Brasil",
   "stack": ["Java", "JavaScript", "jQuery", "PostgreSQL"],
   "ferramentas": ["Eclipse IDE", "Apache Tomcat", "Git"],
-  "estudando": ["PHP", "Node.js", "C#", "MongoDB"],
-  "openToWork": true
+  "estudando": ["PHP", "Node.js", "C#", "MongoDB"]
 }
 ```
 
-
-
-
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,jquery,postgres,eclipse" height="45"/>
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,cs,py" height="45"/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,bootstrap,git,vscode,figma" height="45"/>
-
+  <img src="https://skillicons.dev/icons?i=java,js,jquery,postgres,eclipse" height="45"/>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,cs,py" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,bootstrap,git,vscode,figma" height="45"/>
 </div>
 
 <br clear="right"/>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinagliadev&theme=dark&hide_border=true&layout=compact&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chinagliadev&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150"/>
+</div>
 
+<br clear="right"/>
 
-```java
-System.out.println("Código limpo não é escrito por acaso — é construído com intenção.");
-```
+<div align="center">
+  
+  ```java
+  System.out.println("Código limpo não é escrito por acaso, é construído com intenção.");
+  ```
 
 </div>
