@@ -27,11 +27,6 @@ Apaixonado por código limpo, boas práticas e soluções que fazem sentido.
 
 <br clear="right"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinagliadev&theme=dark&hide_border=true&layout=compact&langs_count=8" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=chinagliadev&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150"/>
-</div>
-
 <br clear="right"/>
 
 <div align="center">
