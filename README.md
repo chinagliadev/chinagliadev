@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="banner victor" src="https://github.com/user-attachments/assets/de0c69c4-26f5-4a51-941b-d3ee566ae35f" />
+  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/7ce8727d-227d-4d03-9753-ccbd698a768f" />
 </div>
 
 ### `Victor chinaglia`
