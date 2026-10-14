@@ -11,7 +11,6 @@ Apaixonado por código limpo, boas práticas e soluções que fazem sentido.
 {
   "nome": "Victor Chinaglia",
   "funcao": "FullStack Junior Developer",
-  "empresa": "Delta Soluções Inteligentes",
   "localizacao": "Americana, SP — Brasil",
   "stack": ["Java", "JavaScript", "jQuery", "PostgreSQL"],
   "ferramentas": ["Eclipse IDE", "Apache Tomcat", "Git"],
